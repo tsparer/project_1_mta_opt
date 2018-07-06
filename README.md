@@ -18,10 +18,8 @@ Used for location and demographic information including gender, income, and poli
 
 -------------------------------------------------------------------------------------------------------------------
 Additional sources:
-New York, Open Government:
-https://data.cityofnewyork.us/City-Government/Demographic-Statistics-By-Zip-Code/kku6-nxdu
-New York Tech Clusters
-https://www.digital.nyc/map
-Interesting data on tech in NYC
-http://nyctechmap.com/
+[New York, Open Government:
+](https://data.cityofnewyork.us/City-Government/Demographic-Statistics-By-Zip-Code/kku6-nxdu)
+[New York Tech Clusters](https://www.digital.nyc/map)
+[Interesting data on tech in NYC](http://nyctechmap.com/)
 
